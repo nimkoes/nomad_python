@@ -2,6 +2,7 @@
 ## programming language Python study
 　  
 　  
+![enrollment_course](https://github.com/nimkoes/nomad_python/blob/main/assets/python_custom_logo.png?raw=true "enrollment_course")
 　  
 　  
   ### nomad coders : Python으로 웹 스크래퍼 만들기  
