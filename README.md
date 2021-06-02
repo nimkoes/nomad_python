@@ -17,7 +17,7 @@
 　  
 #### THEORY
  - [Data Type of Python][link_blog_002]
- - [Lists id Python][link_blog_003]
+ - [Lists in Python][link_blog_003]
 
 
 
