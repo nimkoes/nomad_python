@@ -10,13 +10,21 @@
 　  
 　  
   ### **강의 내용 따라하며 정리**
-
+　  
+　  
 #### INTRODUCTION
  - [nomad coder, PYTHON 'INTRODUCTION'][link_blog_001]  
-
+　  
+#### THEORY
+ - [Data Type of Python][link_blog_002]
+ - [Lists id Python][link_blog_003]
 
 
 
 [link_course]:https://nomadcoders.co/python-for-beginners/lobby
+
 [link_blog_001]:https://xxxelppa.tistory.com/306
+
+[link_blog_002]:https://xxxelppa.tistory.com/307
+[link_blog_003]:https://xxxelppa.tistory.com/308
 
