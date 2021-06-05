@@ -19,6 +19,7 @@
  - [Data Type of Python][link_blog_002]
  - [Lists in Python][link_blog_003]
  - [Tuples and Dicts][link_blog_004]
+ - [Built in Functions][link_blog_005]
 
 
 
@@ -29,4 +30,5 @@
 [link_blog_002]:https://xxxelppa.tistory.com/307
 [link_blog_003]:https://xxxelppa.tistory.com/308
 [link_blog_004]:https://xxxelppa.tistory.com/309
+[link_blog_005]:https://xxxelppa.tistory.com/310
 
