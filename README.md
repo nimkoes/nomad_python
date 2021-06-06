@@ -21,6 +21,7 @@
  - [Tuples and Dicts][link_blog_004]
  - [Built in Functions][link_blog_005]
  - [Creating a Your First Python Function][link_blog_006]
+ - [Function Arguments][link_blog_007]
 
 
 
@@ -33,4 +34,5 @@
 [link_blog_004]:https://xxxelppa.tistory.com/309
 [link_blog_005]:https://xxxelppa.tistory.com/310
 [link_blog_006]:https://xxxelppa.tistory.com/311
+[link_blog_007]:https://xxxelppa.tistory.com/312
 
