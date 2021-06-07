@@ -25,6 +25,7 @@
  - [Returns][link_blog_008]
  - [Keyworded Arguments][link_blog_009]
  - [Code Challenge][link_blog_010]
+ - [Conditionals part One][link_blog_011]
 
 
 
@@ -41,4 +42,5 @@
 [link_blog_008]:https://xxxelppa.tistory.com/313
 [link_blog_009]:https://xxxelppa.tistory.com/314
 [link_blog_010]:https://xxxelppa.tistory.com/315
+[link_blog_011]:https://xxxelppa.tistory.com/316
 
