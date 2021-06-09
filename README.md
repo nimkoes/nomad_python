@@ -27,6 +27,7 @@
  - [Code Challenge][link_blog_010]
  - [Conditionals part One][link_blog_011]
  - [if else and or][link_blog_012]
+ - [for in][link_blog_013]
 
 
 
@@ -45,4 +46,5 @@
 [link_blog_010]:https://xxxelppa.tistory.com/315
 [link_blog_011]:https://xxxelppa.tistory.com/316
 [link_blog_012]:https://xxxelppa.tistory.com/317
+[link_blog_013]:https://xxxelppa.tistory.com/318
 
